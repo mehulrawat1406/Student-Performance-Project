@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://github.com/ishikasoni2005/Student_Performance_Prediction_Dashboard.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
